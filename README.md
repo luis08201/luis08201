@@ -9,4 +9,4 @@
 ## FrontendMentor
 > Feel free to take a look around in some of my Challenges made from FrontendMentor and leave a comment. This help me to improve my code skills
 
-[My Frontend Mentor profile]([https://pages.github.com/](https://www.frontendmentor.io/profile/luis08201)).
+[My Frontend Mentor profile](https://www.frontendmentor.io/profile/luis08201).
